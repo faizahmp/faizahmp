@@ -3,10 +3,11 @@
 - 📊🐍Python and TensorFlow are the tool I use alongside Tableau. 
 - ✨Looking forward to new projects 
 <div id="header" align="center">
+  <h3 align="center">Connect with me!</h3>
   <img src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif" width="200"/>
 </div>
-<div id="badges" align="center">
-  <h3>Connect with me!</h3>
+
+<div id="badges" align="center">  
   <a href="https://www.linkedin.com/in/faizahmp/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -15,9 +16,13 @@
   </a>
 </div>
 
-### ✨ Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=faizahmp&show_icons=true&theme=highcontrast" alt="faizahmp" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizahmp&layout=donut&theme=highcontrast" alt="faizahmp">
+<details>
+  <summary>✨ Github Stats</summary>
+  <div style="display: flex; flex-direction: row;">
+    <img class="img" src="https://github-readme-stats.vercel.app/api?username=faizahmp&show_icons=true&theme=highcontrast&hide_border=true" />
+    <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizahmp&theme=highcontrast&layout=compact&hide_border=true" style="padding-left:20 px"/>
+  </div>
+</details>
 
 <!---
 faizahmp/faizahmp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
