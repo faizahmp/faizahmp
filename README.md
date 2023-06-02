@@ -1,4 +1,3 @@
-### 👋 Hi, I am @faizahmp 
 - 🖥️ Data science and front-end web development. 
 - 📊🐍Python and TensorFlow are the tool I use alongside Tableau. 
 - ✨Looking forward to new projects 
