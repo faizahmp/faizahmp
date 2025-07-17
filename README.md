@@ -1,6 +1,6 @@
-- 🖥️ Data science and front-end web development. 
-- 📊🐍Python and TensorFlow are the tool I use alongside Tableau. 
-- ✨Looking forward to new projects 
+- ✨ I deal with natural language processing ✨
+- 👩‍💻 Love to teach how to code!
+- 👩‍💻 Looking forward to new projects 
 <div id="header" align="center">
   <h3 align="center">Connect with me!</h3>
   <img src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif" width="200"/>
